@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Editor
+.vscode
+
+# Fish
+fish/completions/*
+fish/functions/*
+fish/conf.d/*
+fish/fish_variables
+
+# Backups
+*.bak
