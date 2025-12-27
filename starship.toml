@@ -1,0 +1,43 @@
+add_newline = false
+
+format = "$username$directory$git_branch$git_status$python$nodejs$golang$c$character"
+
+[username]
+show_always = true
+format = "$user : "
+
+[directory]
+style = "cyan"
+truncation_length = 3
+truncate_to_repo = true
+format = "[$path]($style) "
+
+[git_branch]
+style = "purple"
+format = "[@$branch]($style) "
+
+[git_status]
+style = "yellow"
+format = "[($all_status$ahead_behind)]($style)"
+
+[python]
+style = "yellow"
+format = "[py:$version( ($virtualenv))]($style) "
+detect_extensions = ["py"]
+detect_files = ["pyproject.toml", "requirements.txt", "Pipfile", "poetry.lock"]
+
+[nodejs]
+style = "green"
+format = "[js:$version]($style) "
+
+[golang]
+style = "cyan"
+format = "[go:$version]($style) "
+
+[c]
+style = "blue"
+format = "[c]($style) "
+
+[character]
+success_symbol = "➜ "
+error_symbol = "➜ "
