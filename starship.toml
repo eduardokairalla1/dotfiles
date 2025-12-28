@@ -16,10 +16,6 @@ format = "[$path]($style) "
 style = "purple"
 format = "[@$branch]($style) "
 
-[git_status]
-style = "yellow"
-format = "[($all_status$ahead_behind)]($style)"
-
 [python]
 style = "yellow"
 format = "[py:$version( ($virtualenv))]($style) "
