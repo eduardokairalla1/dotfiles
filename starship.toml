@@ -18,7 +18,7 @@ format = "[@$branch]($style) "
 
 [python]
 style = "yellow"
-format = "[py:$version( ($virtualenv))]($style) "
+format = "[py:$version( \\($virtualenv\\))]($style) "
 detect_extensions = ["py"]
 detect_files = ["pyproject.toml", "requirements.txt", "Pipfile", "poetry.lock"]
 
