@@ -19,10 +19,11 @@ My personal dotfile setup. **Simple**, **fast**, and **clean**.
 
 ```
 .
-├── fish/          # Fish shell config + nvm plugin
-├── kitty/         # Kitty terminal config + theme
-├── vscode/        # VSCode settings
-└── starship.toml  # Starship prompt config
+├── fish/                       # Fish shell config + nvm plugin
+├── kitty/                      # Kitty terminal config + theme
+├── peripherals/                # Peripherals configs
+├── vscode/                     # VSCode settings
+└── starship.toml               # Starship prompt config
 ```
 
 ## Features
@@ -58,6 +59,15 @@ My personal dotfile setup. **Simple**, **fast**, and **clean**.
 ## Tweaks
 
 - **Cursor:** [Bibata](https://github.com/ful1e5/Bibata_Cursor)
+
+## Peripherals
+
+### Logitech
+
+- Logitech MX Master 3S
+- Logitech MX Mechanical Mini
+
+> *Managed via [Solaar](https://github.com/pwr-Solaar/Solaar) and [LogiOps](https://github.com/PixlOne/logiops)*
 
 ## Preview
 
