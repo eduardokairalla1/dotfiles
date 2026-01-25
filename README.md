@@ -6,6 +6,7 @@ My personal dotfile setup. **Simple**, **fast**, and **clean**.
 
 - **OS / Distro:** Fedora 43 (Workstation Edition)
 - **DE (Desktop Environment):** GNOME
+- **Display server:** Wayland
 
 ## Stack
 
