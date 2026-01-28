@@ -10,6 +10,16 @@
     "breadcrumbs.enabled": false,
     "editor.stickyScroll.enabled": false,
     "editor.minimap.enabled": false,
-    "editor.rulers": [120],
-    "editor.guides.indentation": true
+    "editor.rulers": [80],
+    "editor.guides.indentation": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.activityBar.location": "top",
+    "claudeCode.preferredLocation": "sidebar",
+    "window.menuBarVisibility": "compact",
+    "chat.commandCenter.enabled": false,
+    "workbench.layoutControl.enabled": false,
+    "workbench.navigationControl.enabled": false,
+    "window.commandCenter": false,
+    "window.titleBarStyle": "custom",
+    "window.title": "Works. Somehow."
 }
