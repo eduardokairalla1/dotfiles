@@ -12,6 +12,7 @@ My personal dotfile setup. **Simple**, **fast**, and **clean**.
 
 - **Terminal:** [Kitty](https://github.com/kovidgoyal/kitty/)
 - **Shell:** [Fish](https://fishshell.com/)
+- **Plugin manager:** [Fisher](https://github.com/jorgebucaran/fisher)
 - **Prompt:** [Starship](https://starship.rs/)
 - **Font:** [JetBrains Mono Nerd Font](https://www.nerdfonts.com/)
 
@@ -19,7 +20,7 @@ My personal dotfile setup. **Simple**, **fast**, and **clean**.
 
 ```
 .
-├── fish/                       # Fish shell config + nvm plugin
+├── fish/                       # Fish shell configs + plugins
 ├── kitty/                      # Kitty terminal config + theme
 ├── peripherals/                # Peripherals configs
 ├── vscode/                     # VSCode settings
