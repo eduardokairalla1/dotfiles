@@ -11,6 +11,13 @@ alias ga='git add'
 alias gc='git commit'
 alias gl='git log --oneline --graph --decorate'
 
+# Docker alias
+alias dc='docker compose'
+
+# Ollama alias
+alias ollama-start="sudo systemctl start ollama"
+alias ollama-stop="sudo systemctl stop ollama"
+
 # Node automatically load
 if type -q nvm
     nvm use lts > /dev/null
