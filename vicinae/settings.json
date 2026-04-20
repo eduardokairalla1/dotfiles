@@ -1,0 +1,22 @@
+{
+   "$schema": "https://vicinae.com/schemas/config.json",
+   "close_on_focus_loss": false,
+   "font": {
+      "normal": {
+         "family": "JetBrains Mono"
+      }
+   },
+   "theme": {
+      "light": {
+         "name": "zenwritten-dark"
+      }
+   },
+   "favorites": [
+      "applications:kitty",
+      "files:search",
+      "shortcuts:91c18636-6fa6-4cb7-a68b-d82a73cc1d17",
+      "@knoopx/store.vicinae.github:myRepositories",
+      "shortcuts:d7c7c189-94c4-43bf-9e77-11f043bb22f5",
+      "clipboard:history"
+   ]
+}
