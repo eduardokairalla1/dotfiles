@@ -15,6 +15,7 @@ My personal dotfile setup. **Simple**, **fast**, and **clean**.
 - **Plugin manager:** [Fisher](https://github.com/jorgebucaran/fisher)
 - **Prompt:** [Starship](https://starship.rs/)
 - **Font:** [JetBrains Mono Nerd Font](https://www.nerdfonts.com/)
+- **Launcher:** [Vicinae](https://vicinae.com/)
 
 ## Structure
 
@@ -56,6 +57,7 @@ My personal dotfile setup. **Simple**, **fast**, and **clean**.
 - [Logo Menu](https://github.com/Aryan20/Logomenu)
 - [System Monitor](https://gitlab.gnome.org/GNOME/gnome-shell-extensions)
 - [Tiling Shell](https://github.com/domferr/tilingshell)
+- [Vicinae](https://github.com/dagimg-dot/vicinae-gnome-extension)
 
 ## Tweaks
 
