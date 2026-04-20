@@ -21,5 +21,5 @@
     "workbench.navigationControl.enabled": false,
     "window.commandCenter": false,
     "window.titleBarStyle": "custom",
-    "window.title": "Works. Somehow."
+    "window.title": "${rootName} — it works, probably"
 }
