@@ -11,6 +11,7 @@ My personal dotfile setup. **Simple**, **fast**, and **clean**.
 ## Stack
 
 - **Terminal:** [Kitty](https://github.com/kovidgoyal/kitty/)
+- **Editor:** [Vim](https://www.vim.org/) ([vim-plug](https://github.com/junegunn/vim-plug))
 - **Shell:** [Fish](https://fishshell.com/)
 - **Plugin manager:** [Fisher](https://github.com/jorgebucaran/fisher)
 - **Prompt:** [Starship](https://starship.rs/)
@@ -24,6 +25,7 @@ My personal dotfile setup. **Simple**, **fast**, and **clean**.
 ├── fish/                       # Fish shell configs + plugins
 ├── kitty/                      # Kitty terminal config + theme
 ├── peripherals/                # Peripherals configs
+├── vim/                        # Vim config (.vimrc) + plugins
 ├── vscode/                     # VSCode settings
 └── starship.toml               # Starship prompt config
 ```
@@ -38,6 +40,12 @@ My personal dotfile setup. **Simple**, **fast**, and **clean**.
 - Adwaita Dark theme
 - Custom transparency and cursor
 - JetBrains Mono Nerd Font
+
+**Vim**
+- Plugins via vim-plug (fzf, fugitive, gitgutter, lightline)
+- Space leader key with file, search, Git and window mappings
+- Relative line numbers, system clipboard, persistent undo
+- Kitty-aware cursor shapes and trailing whitespace highlighting
 
 **VSCode**
 - Min Dark theme
